@@ -1,2 +1,2 @@
 # python-learnings
-Python beginners learning
+Python beginners learning code
